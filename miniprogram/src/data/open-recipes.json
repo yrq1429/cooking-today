@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "htc-13e6ae30",
+    "name": "香菇滑鸡",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "鲜嫩滑口，留一勺汤汁拌饭",
+    "cover": "/assets/recipes/htc-13e6ae30-0.jpg",
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": "2个"
+      },
+      {
+        "name": "干香菇",
+        "amount": "5朵"
+      },
+      {
+        "name": "姜",
+        "amount": "2片"
+      },
+      {
+        "name": "葱",
+        "amount": "2根"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "温水",
+        "amount": "150ml，用于泡香菇"
+      },
+      {
+        "name": "料酒",
+        "amount": "15ml"
+      },
+      {
+        "name": "生抽",
+        "amount": "45ml：腌肉15ml，烹调30ml"
+      },
+      {
+        "name": "盐",
+        "amount": "约1.5g，按口味调整"
+      },
+      {
+        "name": "老抽",
+        "amount": "15ml"
+      },
+      {
+        "name": "白糖",
+        "amount": "约1汤匙，按口味减少"
+      },
+      {
+        "name": "香油",
+        "amount": "5ml"
+      },
+      {
+        "name": "食用油",
+        "amount": "适量"
+      }
+    ],
+    "ingredientNote": "含干香菇泡发时间，按两人份准备。",
+    "steps": [
+      "温水泡发干香菇",
+      "姜切小块，葱切段，蒜对半切小粒",
+      "鸡腿去骨（不去骨也可，只是略影响程序员吃饭的效率而已），切成小块",
+      "泡发的香菇一分为四，香菇水留着备用",
+      "鸡腿肉焯水 1 分钟，去除血沫和杂质",
+      "鸡腿肉中加料酒 15ml、生抽 15ml、盐 1.5g、老抽 15ml，抓匀",
+      "油温 3 成，下入鸡腿肉煸炒，等鸡腿肉金黄后盛出备用",
+      "锅留底油，下入葱、姜、蒜炒香，香菇入锅，大火翻匀",
+      "等待 20 秒会有香菇香味从锅中飘出，此时下入煸炒过的鸡腿肉，下入香菇水（全部，本程序员认为的灵魂操作）、糖 15ml、生抽 30ml",
+      "转中火不盖盖，咕嘟 2 分钟收浓汤汁，淋入香油 5ml，撒上葱花后即可关火、装盘"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-13e6ae30-0.jpg"
+    ],
+    "tips": [
+      "干香菇充分泡发后洗净；香菇水静置，取上层清液。",
+      "鸡腿肉切小块，炒至完全熟透再出锅；较大的肉块需延长焖煮。"
+    ],
+    "taste_tags": [
+      "咸鲜"
+    ],
+    "scene_tags": [
+      "下饭菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 60,
+    "servings": 2,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/meat_dish/%E9%A6%99%E8%8F%87%E6%BB%91%E9%B8%A1/%E9%A6%99%E8%8F%87%E6%BB%91%E9%B8%A1.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-9c3e615c",
+    "name": "手撕包菜",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "大火快炒，留住清脆的口感",
+    "cover": "/assets/recipes/htc-9c3e615c-3.jpg",
+    "ingredients": [
+      {
+        "name": "包菜",
+        "amount": "1 颗"
+      },
+      {
+        "name": "五花肉",
+        "amount": "200 g"
+      },
+      {
+        "name": "小米辣",
+        "amount": "2 根"
+      },
+      {
+        "name": "食用油",
+        "amount": "60 ml"
+      },
+      {
+        "name": "料酒",
+        "amount": "5 ml"
+      },
+      {
+        "name": "生抽",
+        "amount": "5 ml"
+      },
+      {
+        "name": "香醋",
+        "amount": "5 ml"
+      },
+      {
+        "name": "鸡精",
+        "amount": "2 g"
+      },
+      {
+        "name": "姜",
+        "amount": "2 片"
+      },
+      {
+        "name": "蒜头",
+        "amount": "2 粒"
+      },
+      {
+        "name": "蒜苗",
+        "amount": "0.5 根"
+      },
+      {
+        "name": "盐",
+        "amount": "5 g"
+      }
+    ],
+    "ingredientNote": "这份做法含五花肉；想做素版可不放。",
+    "steps": [
+      "包菜对半切开，去掉中间白色部分【参见图一】",
+      "手撕包菜，碗中放入 2 g 盐，清洗包菜并沥干备用【参见图二】",
+      "姜片、蒜头、小米辣、蒜苗处理后备用【参见图三】",
+      "五花肉切片，清水清洗后备用",
+      "锅中加入 30 ml 食用油，倒入包菜翻炒，大火翻炒 1 分钟 后，加入 3 g 盐 ，继续翻炒 2 分钟 后取出备用",
+      "锅中加入 30 ml 食用油，倒入五花肉，大火翻炒 1 分钟",
+      "倒入姜片等材料，翻炒 1 分钟",
+      "倒入包菜翻炒后，加入 香醋、料酒、鸡精、料酒，大火继续翻炒，2 分钟 后出锅"
+    ],
+    "stepImages": {
+      "0": "/assets/recipes/htc-9c3e615c-0.jpg",
+      "1": "/assets/recipes/htc-9c3e615c-1.jpg",
+      "2": "/assets/recipes/htc-9c3e615c-2.jpg"
+    },
+    "gallery": [
+      "/assets/recipes/htc-9c3e615c-0.jpg",
+      "/assets/recipes/htc-9c3e615c-1.jpg",
+      "/assets/recipes/htc-9c3e615c-2.jpg",
+      "/assets/recipes/htc-9c3e615c-3.jpg"
+    ],
+    "tips": [
+      "步骤五中，翻炒时间需要实际情况做调整，一般是炒到包菜七分熟后即可。七分熟是指包菜已经出水质感变软",
+      "步骤五中，加盐的作用是锁住包菜水分的同时，给包菜上一点味道",
+      "最后一个步骤中，翻炒时间根据实际情况和个人口感做灵活调整"
+    ],
+    "taste_tags": [
+      "酸辣"
+    ],
+    "scene_tags": [
+      "快手菜",
+      "下饭菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 20,
+    "servings": 3,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/vegetable_dish/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-e58768c9",
+    "name": "宫保鸡丁",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "鸡丁嫩滑，花生酥脆",
+    "cover": "/assets/recipes/htc-e58768c9-0.jpg",
+    "ingredients": [
+      {
+        "name": "鸡腿肉",
+        "amount": "约350g"
+      },
+      {
+        "name": "大葱",
+        "amount": "1根"
+      },
+      {
+        "name": "熟花生",
+        "amount": "150g"
+      },
+      {
+        "name": "姜",
+        "amount": "10g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "10g，可减量"
+      },
+      {
+        "name": "老抽",
+        "amount": "5g"
+      },
+      {
+        "name": "料酒",
+        "amount": "15g"
+      },
+      {
+        "name": "盐",
+        "amount": "2g"
+      },
+      {
+        "name": "淀粉",
+        "amount": "15g，腌肉用"
+      },
+      {
+        "name": "食用油",
+        "amount": "20g"
+      },
+      {
+        "name": "花椒",
+        "amount": "5g"
+      },
+      {
+        "name": "香醋",
+        "amount": "5g"
+      },
+      {
+        "name": "白糖",
+        "amount": "2g"
+      },
+      {
+        "name": "鸡精",
+        "amount": "2g，可不放"
+      },
+      {
+        "name": "香油",
+        "amount": "10g"
+      },
+      {
+        "name": "淀粉",
+        "amount": "10g，勾芡用"
+      },
+      {
+        "name": "热水",
+        "amount": "100ml左右"
+      },
+      {
+        "name": "清水",
+        "amount": "50ml，调水淀粉"
+      }
+    ],
+    "ingredientNote": "采用原文的简易版本，含腌制1小时。",
+    "steps": [
+      "手枪腿用剪刀去骨，鸡肉面用刀背拍打一遍，切条后切至 1.5cm 见方肉丁；泡于清水 10 分钟，捞出控干备用（若是鸡胸脯肉，则可以直接进行切丁以及之后的动作）",
+      "取大葱葱绿与姜片 5g 于碗中，倒入 50g 开水备用；葱白切 1.5cm 圆粒备用；取花生放入微波炉高火 5 分钟焙干备用",
+      "鸡丁中加入盐 2g，老抽酱油 5g，料酒 15g，淀粉 15g 搅拌均匀，至微微发干；缓慢加入部分葱姜水，搅拌鸡丁至粘手；保鲜膜密封，放入冰箱腌制 1 小时",
+      "干辣椒切段；起锅，大火烧热转小火；放入干辣椒焙干至微微发糊，捞起备用；花椒焙干至有香味，捞起备用",
+      "转大火，倒入 20g 植物油，7 成热（竹筷子起泡）下入鸡丁，煎至上面开始发白，用锅铲翻面，煎 30s 后翻炒均匀",
+      "下入葱粒翻炒，加入余下葱姜水不够 100g 再加一点清水（务必是热水）；盖上锅盖，转中小火焖 2 分钟；",
+      "转大火，下入熟花生，干辣椒和花椒；加入鸡精 2g，香醋 5g，白糖 2g，翻炒均匀；",
+      "淀粉 10g 加 50g 清水调成水淀粉，加入锅中，翻炒均匀，收汁到自己想要的浓度",
+      "关火，淋入芝麻油 10g，即可出锅"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-e58768c9-0.jpg"
+    ],
+    "tips": [],
+    "taste_tags": [
+      "酸甜",
+      "辣"
+    ],
+    "scene_tags": [
+      "下饭菜"
+    ],
+    "difficulty": 4,
+    "time_minutes": 90,
+    "servings": 2,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/meat_dish/%E5%AE%AB%E4%BF%9D%E9%B8%A1%E4%B8%81/%E5%AE%AB%E4%BF%9D%E9%B8%A1%E4%B8%81.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-45fb7d58",
+    "name": "虎皮青椒",
+    "category": "素菜",
+    "cuisine": "家常",
+    "desc": "煎出虎皮，再裹一层酸甜酱汁",
+    "cover": "/assets/recipes/htc-45fb7d58-0.jpg",
+    "ingredients": [
+      {
+        "name": "青椒",
+        "amount": "5 个，长度在 10-15cm 的最为合适"
+      },
+      {
+        "name": "大蒜",
+        "amount": "2-3 瓣"
+      },
+      {
+        "name": "油",
+        "amount": "20ml"
+      },
+      {
+        "name": "白糖",
+        "amount": "15g"
+      },
+      {
+        "name": "生抽",
+        "amount": "15ml"
+      },
+      {
+        "name": "香醋",
+        "amount": "15ml"
+      },
+      {
+        "name": "盐",
+        "amount": "4g"
+      }
+    ],
+    "ingredientNote": "青椒去籽后口味更温和。",
+    "steps": [
+      "去掉青椒蒂，用自来水冲洗干净。",
+      "青椒切长片，平均一个青椒纵向切成 3-4 片即可。",
+      "大蒜去皮，切成碎末，体积在 2mm x 2mm x 2mm 即可。",
+      "调料 1：拿一个小碗倒入 20ml 油，将大蒜末放入其中。",
+      "调料 2：白糖、生抽、醋、盐全部倒入砵（碗）等容器，搅拌。",
+      "将 调料 1 倒入锅中，开火加热 5 成放入青椒，青椒片不要叠在一起，单独成片放置锅中。",
+      "用锅铲不停的按压青椒，合适的时候翻面。",
+      "翻炒约 2 分钟，待青椒表皮出现褶皱时，倒入 调料 2。",
+      "加大火候继续翻炒 30s 后即可出锅盛入盘中。"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-45fb7d58-0.jpg"
+    ],
+    "tips": [],
+    "taste_tags": [
+      "酸甜"
+    ],
+    "scene_tags": [
+      "快手菜",
+      "下饭菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 15,
+    "servings": 2,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/vegetable_dish/%E8%99%8E%E7%9A%AE%E9%9D%92%E6%A4%92/%E8%99%8E%E7%9A%AE%E9%9D%92%E6%A4%92.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-870d9d11",
+    "name": "玉米排骨汤",
+    "category": "汤",
+    "cuisine": "家常",
+    "desc": "一锅清甜，慢慢炖出家的味道",
+    "cover": "/assets/recipes/htc-870d9d11-0.jpg",
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": "500～800g"
+      },
+      {
+        "name": "玉米",
+        "amount": "1根"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "姜",
+        "amount": "适量，分焯水和煸炒使用"
+      },
+      {
+        "name": "大葱",
+        "amount": "小半根"
+      },
+      {
+        "name": "小葱",
+        "amount": "1根"
+      },
+      {
+        "name": "食用油",
+        "amount": "10ml"
+      },
+      {
+        "name": "黑胡椒粉",
+        "amount": "约4g，可减量"
+      },
+      {
+        "name": "料酒",
+        "amount": "10ml"
+      },
+      {
+        "name": "醋",
+        "amount": "10ml"
+      },
+      {
+        "name": "盐",
+        "amount": "适量，按汤量调整"
+      },
+      {
+        "name": "开水",
+        "amount": "约1000ml，没过食材"
+      }
+    ],
+    "ingredientNote": "约三人份；盐在出锅前少量多次加入。",
+    "steps": [
+      "大葱切成 3-4cm 的大段，用刀背拍一下",
+      "玉米剁成小块",
+      "胡箩卜切成滚刀块",
+      "生姜去皮切大片",
+      "新鲜的排骨砍成小块",
+      "排骨凉水下锅，放入大葱、生姜、料酒开始焯水，大火烧开，撇去浮沫，捞出排骨，沥干水分",
+      "热锅凉油，切大片的生姜和排骨一起下锅煸炒，待排骨表面微微焦黄，放入醋（可加速肉质软烂），继续煸炒一分钟",
+      "冲入开水，一次给足，之后就不要再加了，大火烧开",
+      "先下入玉米，放入胡椒粉，盖盖小火炖二十分钟，然后放入胡萝卜，盖盖继续小火炖四十分钟",
+      "调味很简单，出锅前三分钟，除了盐什么都不用放，最后撒上一把小葱花即可"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-870d9d11-0.jpg"
+    ],
+    "tips": [],
+    "taste_tags": [
+      "清淡"
+    ],
+    "scene_tags": [
+      "家常菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 90,
+    "servings": 3,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/soup/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-bf658184",
+    "name": "湖南家常红烧肉",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "慢炖收汁，软糯浓香",
+    "cover": "/assets/recipes/htc-bf658184-0.jpg",
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": "500g"
+      },
+      {
+        "name": "食用油",
+        "amount": "10g"
+      },
+      {
+        "name": "姜",
+        "amount": "3片，另备焯水用姜"
+      },
+      {
+        "name": "香叶",
+        "amount": "5片"
+      },
+      {
+        "name": "桂皮",
+        "amount": "1小块"
+      },
+      {
+        "name": "冰糖",
+        "amount": "6颗"
+      },
+      {
+        "name": "料酒",
+        "amount": "20g"
+      },
+      {
+        "name": "生抽",
+        "amount": "5g"
+      },
+      {
+        "name": "老抽",
+        "amount": "2g"
+      },
+      {
+        "name": "盐",
+        "amount": "约2g，按口味调整"
+      },
+      {
+        "name": "八角",
+        "amount": "3颗"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "适量，可不放"
+      },
+      {
+        "name": "开水",
+        "amount": "没过食材"
+      }
+    ],
+    "ingredientNote": "两人份，辣椒可按口味省略。",
+    "steps": [
+      "带皮五花肉洗净冷水下锅，加入姜片 2~3 片去腥味，煮到沸腾捞出冷水冲净白沫",
+      "五花肉切块，尺寸 1.5cm*1.5cm 块状大小",
+      "热锅加入油，加入冰糖小火搅拌至焦糖色即可，加入切好的五花肉，中火翻炒上色",
+      "加入备好的姜片、八角、桂皮、生抽、老抽、料酒、干小米椒、盐，小火翻炒 1 分钟，加开水没过肉",
+      "加盖中火煮沸，转小火慢顿 30 分钟，慢炖期间，间隔 10 分钟搅拌一次防止粘锅",
+      "小火慢炖汤汁剩三分之一的时，调成中火收汁出锅。"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-bf658184-0.jpg"
+    ],
+    "tips": [],
+    "taste_tags": [
+      "酱香"
+    ],
+    "scene_tags": [
+      "下饭菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 60,
+    "servings": 2,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/meat_dish/%E6%B9%96%E5%8D%97%E5%AE%B6%E5%B8%B8%E7%BA%A2%E7%83%A7%E8%82%89/%E6%B9%96%E5%8D%97%E5%AE%B6%E5%B8%B8%E7%BA%A2%E7%83%A7%E8%82%89.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-944aa047",
+    "name": "地三鲜",
+    "category": "素菜",
+    "cuisine": "家常",
+    "desc": "茄子、土豆、青椒的经典搭配",
+    "cover": "/assets/recipes/htc-944aa047-0.jpg",
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": "200g"
+      },
+      {
+        "name": "土豆",
+        "amount": "150g"
+      },
+      {
+        "name": "青椒",
+        "amount": "3～4个"
+      },
+      {
+        "name": "葱",
+        "amount": "5g"
+      },
+      {
+        "name": "姜",
+        "amount": "5g"
+      },
+      {
+        "name": "蒜",
+        "amount": "15g，分两次加入"
+      },
+      {
+        "name": "生抽",
+        "amount": "10ml"
+      },
+      {
+        "name": "白糖",
+        "amount": "10g"
+      },
+      {
+        "name": "淀粉",
+        "amount": "8g"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "15ml"
+      },
+      {
+        "name": "清水",
+        "amount": "80ml"
+      },
+      {
+        "name": "食用油",
+        "amount": "约150ml煎炸，另备少量底油"
+      }
+    ],
+    "ingredientNote": "用量约2～4人份；葱姜蒜及调味量从原文步骤补齐。",
+    "steps": [
+      "土豆、茄子、尖椒洗净。",
+      "土豆去皮。",
+      "茄子、土豆均切成 15g 的不规则的小块。",
+      "尖椒用手顺着纹路撕即可，撕成比土豆、茄子略大 25%的块。",
+      "尽可能除去青椒表面的水分，避免后续炸的时候炸水。考虑使用厨房纸或风干半小时。",
+      "葱切 0.5cm 小段，共取 5g。蒜剁碎成蒜蓉取 15g，分成两份，各 7.5g。姜切沫取 5g。",
+      "拿一个空碗，放入生抽 10ml、糖 10g、淀粉 8g，加入 80ml 清水，彻底搅拌均匀，作为调料碗，备用。",
+      "热锅，加入 150ml 油。",
+      "加入土豆，煎炸大约 3-4 分钟，以显示金黄色、筷子能轻松扎透为准。",
+      "捞出土豆，留下油。",
+      "加入茄子，煎炸大约 2-3 分钟，待其到大约 7 分熟，以茄子变软、边缘微焦且吐出多余油脂为准。",
+      "捞出茄子，留下油。（也可能没有残余的油了）",
+      "如果锅内已经没有流动的油，可以考虑补充 15ml 油。",
+      "加入尖椒块，煎炸大约 15 秒，边缘稍微起虎皮后，立刻捞出。倒出锅里的油。",
+      "重新热锅，重新加入 15ml 新底油。",
+      "放入葱 5g，姜 5g，蒜 7.5g。中小火爆香。",
+      "放入豆瓣酱 15ml。转小火，炒出红油和酱香味。",
+      "倒入调料碗。立刻转大火，高速搅拌避免糊锅！大约 10 秒后汤汁就会开始冒泡并变得黏稠。",
+      "立刻放入之前准备好的全部土豆、茄子和尖椒。",
+      "翻炒 20 秒，让浓稠的酱汁均匀挂在食材上。",
+      "关火，撒入 7.5g 蒜。翻拌均匀，盛盘。"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-944aa047-0.jpg"
+    ],
+    "tips": [
+      "糖比淀粉多是非常合理的。淀粉在这里不负责提供味道，它只是一种物理增稠剂。",
+      "茄子在煎炸以后，体积会缩小 4 倍。所以拿的时候可能会注意到茄子下锅很多，出锅很少。这是正常的。",
+      "青椒下锅的瞬间可能会爆发很多水分，导致油飞溅。务必下锅时用锅盖当盾牌挡在身前，小心下锅。"
+    ],
+    "taste_tags": [
+      "咸鲜"
+    ],
+    "scene_tags": [
+      "下饭菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 40,
+    "servings": 3,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/vegetable_dish/%E5%9C%B0%E4%B8%89%E9%B2%9C/%E5%9C%B0%E4%B8%89%E9%B2%9C.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-38a2f433",
+    "name": "西红柿鸡蛋挂面",
+    "category": "主食",
+    "cuisine": "家常",
+    "desc": "一碗热面，照顾好自己的胃",
+    "cover": "/assets/recipes/htc-38a2f433-3.jpg",
+    "ingredients": [
+      {
+        "name": "挂面",
+        "amount": "50～100g"
+      },
+      {
+        "name": "西红柿",
+        "amount": "1个，约200g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "1～2个"
+      },
+      {
+        "name": "青椒",
+        "amount": "少量，可不放"
+      },
+      {
+        "name": "小葱",
+        "amount": "适量"
+      },
+      {
+        "name": "蒜",
+        "amount": "少量"
+      },
+      {
+        "name": "盐",
+        "amount": "适量"
+      },
+      {
+        "name": "蚝油",
+        "amount": "5g，或用少量鸡精"
+      },
+      {
+        "name": "白糖",
+        "amount": "2g，按番茄酸度调整"
+      },
+      {
+        "name": "生抽",
+        "amount": "5～8g"
+      },
+      {
+        "name": "食用油",
+        "amount": "约20g"
+      },
+      {
+        "name": "香油",
+        "amount": "5g，可减量"
+      }
+    ],
+    "ingredientNote": "一人份。蔬菜可根据现有食材调整。",
+    "steps": [
+      "小葱洗净并切成葱花",
+      "西红柿切块儿，如果不太会切建议先百度一下~",
+      "青椒切成菱形块",
+      "生鸡蛋打入一个小碗并打散，如果鸡蛋有点腥味可以加 2g 白醋去腥",
+      "起锅烧热，倒入 15~20g 食用油，鸡蛋炒嫩滑就得多一点油，同时为后面煸炒西红柿留一些底油",
+      "待油温到七成热时（手掌隔大概 10cm，能感觉到热），倒入蛋液快速划散",
+      "鸡蛋滑到凝固后，一点不会有蛋液了后倒入小碗备用，此处留一些底油",
+      "锅中留底油后先加入葱白、蒜末炒香",
+      "加入西红柿块、青椒，待西红柿炒出一点汁水",
+      "此时速速加入 5g 酱油和 2g 白砂糖",
+      "翻炒十几秒后加入一碗清水（刚刚好即将没过西红柿即可）",
+      "煮沸后加入炒好的鸡蛋，加入蚝油 5g 或者 2g 鸡精用于提鲜",
+      "中小火收汁，期间要搅拌防止粘锅，收汁到下图后加一点葱花（剩下的葱绿部分）和香油（不加也可以），臊子制作完成",
+      "可以不用洗锅，直接加清水 500ml",
+      "煮沸加入挂面，挂面煮软后加入 100ml 清水",
+      "再次煮沸后，若面条飘起来了，再加入 100ml 清水",
+      "煮沸后看面条两侧是否呈透明状，透明状则熟了",
+      "捞面到臊子碗中，拌面即可啦~"
+    ],
+    "stepImages": {
+      "3": "/assets/recipes/htc-38a2f433-1.jpg",
+      "12": "/assets/recipes/htc-38a2f433-2.jpg",
+      "17": "/assets/recipes/htc-38a2f433-3.jpg"
+    },
+    "gallery": [
+      "/assets/recipes/htc-38a2f433-0.jpg",
+      "/assets/recipes/htc-38a2f433-1.jpg",
+      "/assets/recipes/htc-38a2f433-2.jpg",
+      "/assets/recipes/htc-38a2f433-3.jpg"
+    ],
+    "tips": [
+      "鸡蛋蛋液中可以加入 2g 黑胡椒味道更好",
+      "熬臊子过程中加入 2g 白胡椒粉提升香辛口味",
+      "煮面条如果一次性煮熟也可以，多次加水是为了让面条口感劲道，面条不粘黏，技巧在于煮沸就加冷水，循环往复两三次即可"
+    ],
+    "taste_tags": [
+      "酸甜"
+    ],
+    "scene_tags": [
+      "快手菜",
+      "一人食"
+    ],
+    "difficulty": 2,
+    "time_minutes": 20,
+    "servings": 1,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/staple/%E8%A5%BF%E7%BA%A2%E6%9F%BF%E9%B8%A1%E8%9B%8B%E6%8C%82%E9%9D%A2/%E8%A5%BF%E7%BA%A2%E6%9F%BF%E9%B8%A1%E8%9B%8B%E6%8C%82%E9%9D%A2.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-63af2ad3",
+    "name": "凉拌木耳",
+    "category": "凉菜",
+    "cuisine": "家常",
+    "desc": "脆爽开胃，餐桌上的清新一口",
+    "cover": "/assets/recipes/htc-63af2ad3-9.jpg",
+    "ingredients": [
+      {
+        "name": "干木耳",
+        "amount": "20g / 湿木耳: 120g"
+      },
+      {
+        "name": "蒜瓣",
+        "amount": "2-3 个"
+      },
+      {
+        "name": "小米辣",
+        "amount": "2 个"
+      },
+      {
+        "name": "盐",
+        "amount": "2 g"
+      },
+      {
+        "name": "糖",
+        "amount": "5-10g（依个人口味）"
+      },
+      {
+        "name": "生抽",
+        "amount": "15ml"
+      },
+      {
+        "name": "醋",
+        "amount": "15ml"
+      },
+      {
+        "name": "香油",
+        "amount": "5ml"
+      },
+      {
+        "name": "芥末",
+        "amount": "（约 2cm）"
+      }
+    ],
+    "ingredientNote": "含泡发与冷却时间，使用新鲜泡发的木耳。",
+    "steps": [
+      "泡发干木耳, 水量约为 400ml, 泡发约 45 分钟。 （湿木耳跳过此步骤）",
+      "将泡发好的木耳, 进行去根处理（如图 4, 5, 6）, 并彻底洗净。",
+      "起锅烧水，水开后放入木耳, 大火煮 1.5-2 分钟。",
+      "将蒜瓣、小米辣切碎放入碗中 （可选取中大碗）, 并依次加入盐、糖、生抽、醋、香油、芥末, 用量如上。",
+      "木耳盛出后沥水, 放入上一步碗中。",
+      "搅拌充分，端盘。"
+    ],
+    "stepImages": {
+      "0": "/assets/recipes/htc-63af2ad3-2.jpg",
+      "1": "/assets/recipes/htc-63af2ad3-5.jpg",
+      "2": "/assets/recipes/htc-63af2ad3-6.jpg",
+      "3": "/assets/recipes/htc-63af2ad3-8.jpg",
+      "5": "/assets/recipes/htc-63af2ad3-9.jpg"
+    },
+    "gallery": [
+      "/assets/recipes/htc-63af2ad3-0.jpg",
+      "/assets/recipes/htc-63af2ad3-1.jpg",
+      "/assets/recipes/htc-63af2ad3-2.jpg",
+      "/assets/recipes/htc-63af2ad3-3.jpg",
+      "/assets/recipes/htc-63af2ad3-4.jpg",
+      "/assets/recipes/htc-63af2ad3-5.jpg",
+      "/assets/recipes/htc-63af2ad3-6.jpg",
+      "/assets/recipes/htc-63af2ad3-7.jpg",
+      "/assets/recipes/htc-63af2ad3-8.jpg",
+      "/assets/recipes/htc-63af2ad3-9.jpg"
+    ],
+    "tips": [
+      "调味品的数量可以根据个人口味进行调整, 如果不喜欢芥末, 可以不加入。",
+      "等木耳冷却入味后口味更佳, 约 15 分钟。"
+    ],
+    "taste_tags": [
+      "酸辣"
+    ],
+    "scene_tags": [
+      "家常菜"
+    ],
+    "difficulty": 2,
+    "time_minutes": 70,
+    "servings": 1,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/vegetable_dish/%E5%87%89%E6%8B%8C%E6%9C%A8%E8%80%B3/%E5%87%89%E6%8B%8C%E6%9C%A8%E8%80%B3.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-e85e6c3a",
+    "name": "清蒸鲈鱼",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "清蒸锁住鲜味，葱油提香",
+    "cover": "/assets/recipes/htc-e85e6c3a-2.jpg",
+    "ingredients": [
+      {
+        "name": "鲈鱼",
+        "amount": "1条"
+      },
+      {
+        "name": "香葱",
+        "amount": "3根"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "食用油",
+        "amount": "10～15ml"
+      },
+      {
+        "name": "蒸鱼豉油",
+        "amount": "10～15ml"
+      },
+      {
+        "name": "盐",
+        "amount": "适量，腌制后冲净"
+      }
+    ],
+    "ingredientNote": "蒸制时间应按鱼的大小调整，以完全熟透为准。",
+    "steps": [
+      "姜切片切丝、香葱的葱白切段，葱绿切丝，切丝后放入冷水浸泡备用。",
+      "鲈鱼处理好后洗净，用厨房纸擦干，两面分别划几刀，用盐洗掉鱼身的粘液，并用 10g 盐抹遍鱼身的内外，腌制 10 分钟以上。",
+      "补充一个鲈鱼改刀和摆盘的方法，改刀后可以让鲈鱼立起来蒸，均匀受热，同时吃起来更加方便，无需翻面。",
+      "鱼肚内塞上姜和葱白，鱼身也撒上姜和葱白，量为备用的一半。蒸鱼的碟子用筷子将鱼跟碟子隔开蒸",
+      "水烧热感觉到水温后放进入鱼",
+      "大火清蒸 10 分钟。",
+      "蒸好的鱼，用干净的盘子装起来并去除身上姜蒜",
+      "鱼身浇上 15ml 蒸鱼豉油",
+      "鱼身重新撒上姜和葱丝，锅内加上 10ml 食用油并烧热，将食用油淋至鱼身即可出菜"
+    ],
+    "stepImages": {
+      "2": "/assets/recipes/htc-e85e6c3a-1.jpg",
+      "8": "/assets/recipes/htc-e85e6c3a-2.jpg"
+    },
+    "gallery": [
+      "/assets/recipes/htc-e85e6c3a-0.jpg",
+      "/assets/recipes/htc-e85e6c3a-1.jpg",
+      "/assets/recipes/htc-e85e6c3a-2.jpg"
+    ],
+    "tips": [
+      "技术总结："
+    ],
+    "taste_tags": [
+      "清淡"
+    ],
+    "scene_tags": [
+      "家常菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 30,
+    "servings": 2,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/aquatic/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-6fa97d45",
+    "name": "上汤娃娃菜",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "菜叶鲜甜，汤汁浓郁",
+    "cover": "/assets/recipes/htc-6fa97d45-0.jpg",
+    "ingredients": [
+      {
+        "name": "娃娃菜",
+        "amount": "700g"
+      },
+      {
+        "name": "金针菇",
+        "amount": "少量，可不放"
+      },
+      {
+        "name": "皮蛋",
+        "amount": "1个，可不放"
+      },
+      {
+        "name": "午餐肉",
+        "amount": "适量，可用火腿肠替代"
+      },
+      {
+        "name": "葱",
+        "amount": "3g"
+      },
+      {
+        "name": "姜",
+        "amount": "10g"
+      },
+      {
+        "name": "蒜",
+        "amount": "10g"
+      },
+      {
+        "name": "清水",
+        "amount": "约300ml，以没过菜为准"
+      },
+      {
+        "name": "蚝油",
+        "amount": "适量"
+      },
+      {
+        "name": "白糖",
+        "amount": "少量"
+      },
+      {
+        "name": "盐",
+        "amount": "适量"
+      },
+      {
+        "name": "食用油",
+        "amount": "少量"
+      }
+    ],
+    "ingredientNote": "约2～4人份；肉类与调味品按口味调整。",
+    "steps": [
+      "娃娃菜洗净, 竖着切开切成段。",
+      "葱 3g 切 小段。蒜 10g 切片。姜 10g 切小片。",
+      "皮蛋切成丁, 火腿肠或者午餐肉切成丁（1cm 大小的丁）",
+      "金针菇洗净撕开",
+      "烧热水娃娃菜放进去十秒钟出一下水捞出。",
+      "热锅凉油, 加热锅倒入油过一遍就倒出来, 重新倒入一点油。",
+      "调至小火加入葱姜蒜，煎炒出香味即可。",
+      "加入适 300g 清水（水量没过娃娃菜即可）, 放入娃娃菜, 金针菇, 午餐肉",
+      "加入调味料蚝油、糖、盐、味精烧开。",
+      "煮 3 分钟, 煮开后开始装盘, 盛出娃娃菜后皮蛋放在上面把汤汁浇上去就可以了"
+    ],
+    "stepImages": {
+      "9": "/assets/recipes/htc-6fa97d45-0.jpg"
+    },
+    "gallery": [
+      "/assets/recipes/htc-6fa97d45-0.jpg"
+    ],
+    "tips": [],
+    "taste_tags": [
+      "咸鲜"
+    ],
+    "scene_tags": [
+      "家常菜"
+    ],
+    "difficulty": 3,
+    "time_minutes": 25,
+    "servings": 3,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/vegetable_dish/%E4%B8%8A%E6%B1%A4%E5%A8%83%E5%A8%83%E8%8F%9C/%E4%B8%8A%E6%B1%A4%E5%A8%83%E5%A8%83%E8%8F%9C.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-3e0ca60e",
+    "name": "糖醋排骨",
+    "category": "荤菜",
+    "cuisine": "家常",
+    "desc": "酸甜挂汁，每一口都很满足",
+    "cover": "/assets/recipes/htc-3e0ca60e-1.jpg",
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": "300 g"
+      },
+      {
+        "name": "白砂糖",
+        "amount": "30 g"
+      },
+      {
+        "name": "食用油",
+        "amount": "300–350 ml  （油量需根据锅具大小调整，如用于深炸则以足以覆盖排骨 2/3 为准）"
+      },
+      {
+        "name": "生抽",
+        "amount": "5 ml"
+      },
+      {
+        "name": "蚝油",
+        "amount": "5 ml"
+      },
+      {
+        "name": "老抽",
+        "amount": "5 ml"
+      },
+      {
+        "name": "鸡精",
+        "amount": "2 g"
+      },
+      {
+        "name": "姜片",
+        "amount": "2 片"
+      },
+      {
+        "name": "芝麻",
+        "amount": "2 g"
+      },
+      {
+        "name": "番茄酱",
+        "amount": "10 g"
+      },
+      {
+        "name": "香醋",
+        "amount": "5 ml"
+      },
+      {
+        "name": "五香粉",
+        "amount": "0.5 g"
+      }
+    ],
+    "ingredientNote": "煎炸用油并非全部食用量；需备可控温的锅具。",
+    "steps": [
+      "排骨与姜片放入冷水中，大火加热至水沸腾、出现大量泡沫后转中火，待水持续沸腾时再转小火焯水 2–3 分钟，捞出备用。",
+      "用开水反复清洗排骨 2–3 遍，确保彻底去除血沫。",
+      "在锅中倒入足够量的食用油进行深炸（油量依据锅具大小而定，建议约 300 ml 供一般家庭使用），待油温升至约 170°C 后，下排骨炸制 3–5 分钟，直至表面略呈金黄色，捞出控油。",
+      "另取干净锅，置于小火上加热 50 ml 热水，加入白砂糖 30 g，轻轻搅拌直至糖完全溶解，并略呈淡黄色。此步骤的重点在于观察糖溶解情况，无需过分依赖颜色变化。",
+      "将炸好的排骨倒入炒制糖水的锅中，迅速翻炒 30 秒后，依次加入香醋 5 ml、生抽 5 ml、蚝油 5 ml、鸡精 2 g、番茄酱 10 g、五香粉 0.5 g，再次翻炒 30 秒，使调料均匀裹覆排骨，然后加入开水至刚好没过排骨。",
+      "用大火将锅中液体煮沸后，加入老抽 5 ml 进行上色，并快速收汁；若排骨块较大，可转小火焖煮 5–10 分钟以便更好地入味，切勿采用中火长时间炖煮 20 分钟，以免损伤口感。",
+      "起锅装盘，撒上芝麻 2 g，即可享用。"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-3e0ca60e-0.jpg",
+      "/assets/recipes/htc-3e0ca60e-1.jpg"
+    ],
+    "tips": [
+      "炸排骨时可根据实际情况轻撒少量干淀粉于排骨表面，以提升酥脆口感。",
+      "焯水时注意火力变化：冷水下锅后先用大火至水沸腾、泡沫丰富，再转中火，最后转小火焯水；焯水后应使用开水清洗，避免因温差过大导致肉质变柴。",
+      "步骤四的关键在于确保白糖完全溶解，无须过分依赖颜色变化判断。",
+      "收汁时应快速翻炒，使排骨均匀裹上调料，避免长时间煮炖造成口感损失。"
+    ],
+    "taste_tags": [
+      "酸甜"
+    ],
+    "scene_tags": [
+      "下饭菜"
+    ],
+    "difficulty": 4,
+    "time_minutes": 45,
+    "servings": 2,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/meat_dish/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-2afde490",
+    "name": "日式咖喱饭",
+    "category": "主食",
+    "cuisine": "家常",
+    "desc": "浓浓咖喱，一盘就是一餐",
+    "cover": "/assets/recipes/htc-2afde490-0.jpg",
+    "ingredients": [
+      {
+        "name": "咖喱块",
+        "amount": "115g，按包装说明调整"
+      },
+      {
+        "name": "洋葱",
+        "amount": "2个"
+      },
+      {
+        "name": "土豆",
+        "amount": "2个"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "蒜",
+        "amount": "2～3瓣"
+      },
+      {
+        "name": "肉",
+        "amount": "约1000g，猪牛鸡肉均可"
+      },
+      {
+        "name": "食用油",
+        "amount": "少量"
+      },
+      {
+        "name": "清水",
+        "amount": "没过食材"
+      },
+      {
+        "name": "米饭",
+        "amount": "按人数准备"
+      }
+    ],
+    "ingredientNote": "原文为约六碗咖喱的用量，少量制作可按比例减量。",
+    "steps": [
+      "胡萝卜去头尾，去皮，滚刀切",
+      "洋葱剥去外层去芯，切成月牙状",
+      "土豆去皮、切大块",
+      "肉切块状",
+      "剥蒜拍平切碎",
+      "咖喱块切碎，增加接触面积加速溶解",
+      "热油锅放入蒜和肉，快速翻炒至肉*表面变白*",
+      "加入胡萝卜，快速翻炒至均匀受热",
+      "加入洋葱，快速翻炒至洋葱*变透明状*",
+      "加入土豆，保持翻炒至土豆*变软*（可以用筷子确认）",
+      "加水没过所有食材，沸腾后等待 15 分钟",
+      "关火，加咖喱并搅拌",
+      "等待咖喱融化后再开火，缓慢搅拌 10 分钟，防止糊锅",
+      "在外观*呈粘稠状态*关火结束制作",
+      "微波炉：单人份高火 2-3 分钟",
+      "锅：需额外加 50ml 水，加热时保持搅拌"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-2afde490-0.jpg"
+    ],
+    "tips": [
+      "放入咖喱块前先关火，融化后再小火加热并持续搅拌。",
+      "如水量明显减少，加热水补至没过食材。"
+    ],
+    "taste_tags": [
+      "咸鲜"
+    ],
+    "scene_tags": [
+      "一人食"
+    ],
+    "difficulty": 4,
+    "time_minutes": 60,
+    "servings": 6,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/staple/%E6%97%A5%E5%BC%8F%E5%92%96%E5%96%B1%E9%A5%AD/%E6%97%A5%E5%BC%8F%E5%92%96%E5%96%B1%E9%A5%AD.md",
+      "license": "Unlicense"
+    }
+  },
+  {
+    "id": "htc-190fdf66",
+    "name": "烤蛋挞",
+    "category": "甜品",
+    "cuisine": "家常",
+    "desc": "酥皮与奶香，留给下午的甜",
+    "cover": "/assets/recipes/htc-190fdf66-0.jpg",
+    "ingredients": [
+      {
+        "name": "蛋挞皮",
+        "amount": "约30只"
+      },
+      {
+        "name": "蛋黄",
+        "amount": "8个，蛋清留作他用"
+      },
+      {
+        "name": "牛奶",
+        "amount": "200ml"
+      },
+      {
+        "name": "淡奶油",
+        "amount": "450ml"
+      },
+      {
+        "name": "白砂糖",
+        "amount": "80g，可按口味调整"
+      }
+    ],
+    "ingredientNote": "原文整批约30只；可按比例减量。",
+    "steps": [
+      "将碗置于克数称上 称量 450 克 淡奶油（淡奶油密度在此处记为 1 ）",
+      "加入 80 克白砂糖 （甜度中等 可按个人口味增减 建议范围 60-100 克）",
+      "加入 200 克牛奶 （牛奶密度在此处记为 1 ）",
+      "取 8 个蛋黄加入 蛋清可留作他用",
+      "均匀搅拌所有材料直至白砂糖全部融化",
+      "使用网筛对搅拌完成的食材进行过滤 滤除鸡蛋黏膜 鸡蛋壳 未融化的白砂糖 结块的淡奶油",
+      "此时请将烤箱设置 220 摄氏度开始预热（约 10 分钟） 记得拿出烤盘",
+      "将蛋挞皮以 0.5 厘米的间隔均匀放置于烤盘中",
+      "将过滤完成的食材倒入蛋挞皮中 液面距离蛋挞皮上沿 0.5 厘米即可不宜过多",
+      "截止此步骤 半成品蛋挞的制作已经完成 可直接放入冰箱速冻 12 小时以上保存",
+      "将半成品蛋挞放入烤箱中进行烤制 温度为 200 摄氏度 时间为 25 分钟",
+      "烤制结束后即可食用"
+    ],
+    "stepImages": {},
+    "gallery": [
+      "/assets/recipes/htc-190fdf66-0.jpg"
+    ],
+    "tips": [
+      "需要烤箱、厨房秤、搅拌工具和筛网。",
+      "半成品可冷冻保存，也可直接烤制；时间按烤箱和蛋挞状态调整。",
+      "取烤盘时使用隔热手套。"
+    ],
+    "taste_tags": [
+      "甜"
+    ],
+    "scene_tags": [
+      "甜品"
+    ],
+    "difficulty": 4,
+    "time_minutes": 50,
+    "servings": 0,
+    "nutrition": {
+      "calories": 0,
+      "note": ""
+    },
+    "source": {
+      "name": "HowToCook · 整理版",
+      "url": "https://github.com/Anduin2017/HowToCook/blob/0e106eea348c734fe1586f781202994439cf98a5/dishes/dessert/%E7%83%A4%E8%9B%8B%E6%8C%9E/%E7%83%A4%E8%9B%8B%E6%8C%9E.md",
+      "license": "Unlicense"
+    }
+  }
+]

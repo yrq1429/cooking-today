@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "scope": "Online API evaluation only; application recipe data unchanged",
+  "ip13": {
+    "liveQuery": "blocked: missing API key, business code 403",
+    "documentationSampleImages": [
+      {
+        "recipeId": "1426951",
+        "step": "1",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 12537
+      },
+      {
+        "recipeId": "1426951",
+        "step": "2",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 9669
+      },
+      {
+        "recipeId": "1426951",
+        "step": "3",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 14154
+      },
+      {
+        "recipeId": "1426951",
+        "step": "4",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 15101
+      },
+      {
+        "recipeId": "1426951",
+        "step": "5",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 11431
+      },
+      {
+        "recipeId": "1426951",
+        "step": "6",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 15860
+      },
+      {
+        "recipeId": "1426741",
+        "step": "1",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 15960
+      },
+      {
+        "recipeId": "1426741",
+        "step": "2",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 17974
+      },
+      {
+        "recipeId": "1426741",
+        "step": "3",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 10509
+      },
+      {
+        "recipeId": "1426741",
+        "step": "4",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 15735
+      },
+      {
+        "recipeId": "1426741",
+        "step": "5",
+        "http": 200,
+        "width": 200,
+        "height": 200,
+        "bytes": 18004
+      }
+    ]
+  },
+  "uapi": {
+    "liveQueries": [
+      {
+        "keyword": "番茄炒蛋",
+        "searchResults": 20,
+        "title": "番茄炒蛋",
+        "id": "800024249",
+        "ingredients": 4,
+        "steps": 15,
+        "stepImages": 15
+      },
+      {
+        "keyword": "红烧肉",
+        "searchResults": 20,
+        "title": "懒人版秘制红烧肉",
+        "id": "800032816",
+        "ingredients": 4,
+        "steps": 8,
+        "stepImages": 8
+      },
+      {
+        "keyword": "宫保鸡丁",
+        "searchResults": 20,
+        "title": "宫保鸡丁",
+        "id": "800021522",
+        "ingredients": 15,
+        "steps": 10,
+        "stepImages": 10
+      }
+    ],
+    "xcfSample": {
+      "id": "xcf:104493058",
+      "ingredients": 6,
+      "steps": 14,
+      "stepImages": 14,
+      "httpsCheckedImages": 3,
+      "httpsSuccessfulImages": 3,
+      "coverSize": [
+        640,
+        520
+      ],
+      "stepImageSize": [
+        800,
+        600
+      ]
+    },
+    "pricing": "visitor free credits; search 1 credit, detail 3 credits",
+    "imageIssue": "Douguo results return HTTP image URLs; HTTPS conversion fails certificate verification"
+  }
+}

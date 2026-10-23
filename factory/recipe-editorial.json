@@ -1,0 +1,545 @@
+{
+  "香菇滑鸡": {
+    "time_minutes": 60,
+    "servings": 2,
+    "ingredientNote": "含干香菇泡发时间，按两人份准备。",
+    "ingredients": [
+      {
+        "name": "鸡腿",
+        "amount": "2个"
+      },
+      {
+        "name": "干香菇",
+        "amount": "5朵"
+      },
+      {
+        "name": "姜",
+        "amount": "2片"
+      },
+      {
+        "name": "葱",
+        "amount": "2根"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "温水",
+        "amount": "150ml，用于泡香菇"
+      },
+      {
+        "name": "料酒",
+        "amount": "15ml"
+      },
+      {
+        "name": "生抽",
+        "amount": "45ml：腌肉15ml，烹调30ml"
+      },
+      {
+        "name": "盐",
+        "amount": "约1.5g，按口味调整"
+      },
+      {
+        "name": "老抽",
+        "amount": "15ml"
+      },
+      {
+        "name": "白糖",
+        "amount": "约1汤匙，按口味减少"
+      },
+      {
+        "name": "香油",
+        "amount": "5ml"
+      },
+      {
+        "name": "食用油",
+        "amount": "适量"
+      }
+    ],
+    "tips": [
+      "干香菇充分泡发后洗净；香菇水静置，取上层清液。",
+      "鸡腿肉切小块，炒至完全熟透再出锅；较大的肉块需延长焖煮。"
+    ]
+  },
+  "手撕包菜": {
+    "servings": 3,
+    "ingredientNote": "这份做法含五花肉；想做素版可不放。"
+  },
+  "宫保鸡丁": {
+    "servings": 2,
+    "ingredientNote": "采用原文的简易版本，含腌制1小时。",
+    "ingredients": [
+      {
+        "name": "鸡腿肉",
+        "amount": "约350g"
+      },
+      {
+        "name": "大葱",
+        "amount": "1根"
+      },
+      {
+        "name": "熟花生",
+        "amount": "150g"
+      },
+      {
+        "name": "姜",
+        "amount": "10g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "10g，可减量"
+      },
+      {
+        "name": "老抽",
+        "amount": "5g"
+      },
+      {
+        "name": "料酒",
+        "amount": "15g"
+      },
+      {
+        "name": "盐",
+        "amount": "2g"
+      },
+      {
+        "name": "淀粉",
+        "amount": "15g，腌肉用"
+      },
+      {
+        "name": "食用油",
+        "amount": "20g"
+      },
+      {
+        "name": "花椒",
+        "amount": "5g"
+      },
+      {
+        "name": "香醋",
+        "amount": "5g"
+      },
+      {
+        "name": "白糖",
+        "amount": "2g"
+      },
+      {
+        "name": "鸡精",
+        "amount": "2g，可不放"
+      },
+      {
+        "name": "香油",
+        "amount": "10g"
+      },
+      {
+        "name": "淀粉",
+        "amount": "10g，勾芡用"
+      },
+      {
+        "name": "热水",
+        "amount": "100ml左右"
+      },
+      {
+        "name": "清水",
+        "amount": "50ml，调水淀粉"
+      }
+    ]
+  },
+  "虎皮青椒": {
+    "servings": 2,
+    "ingredientNote": "青椒去籽后口味更温和。"
+  },
+  "玉米排骨汤": {
+    "servings": 3,
+    "ingredientNote": "约三人份；盐在出锅前少量多次加入。",
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": "500～800g"
+      },
+      {
+        "name": "玉米",
+        "amount": "1根"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "姜",
+        "amount": "适量，分焯水和煸炒使用"
+      },
+      {
+        "name": "大葱",
+        "amount": "小半根"
+      },
+      {
+        "name": "小葱",
+        "amount": "1根"
+      },
+      {
+        "name": "食用油",
+        "amount": "10ml"
+      },
+      {
+        "name": "黑胡椒粉",
+        "amount": "约4g，可减量"
+      },
+      {
+        "name": "料酒",
+        "amount": "10ml"
+      },
+      {
+        "name": "醋",
+        "amount": "10ml"
+      },
+      {
+        "name": "盐",
+        "amount": "适量，按汤量调整"
+      },
+      {
+        "name": "开水",
+        "amount": "约1000ml，没过食材"
+      }
+    ]
+  },
+  "湖南家常红烧肉": {
+    "time_minutes": 60,
+    "servings": 2,
+    "ingredientNote": "两人份，辣椒可按口味省略。",
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": "500g"
+      },
+      {
+        "name": "食用油",
+        "amount": "10g"
+      },
+      {
+        "name": "姜",
+        "amount": "3片，另备焯水用姜"
+      },
+      {
+        "name": "香叶",
+        "amount": "5片"
+      },
+      {
+        "name": "桂皮",
+        "amount": "1小块"
+      },
+      {
+        "name": "冰糖",
+        "amount": "6颗"
+      },
+      {
+        "name": "料酒",
+        "amount": "20g"
+      },
+      {
+        "name": "生抽",
+        "amount": "5g"
+      },
+      {
+        "name": "老抽",
+        "amount": "2g"
+      },
+      {
+        "name": "盐",
+        "amount": "约2g，按口味调整"
+      },
+      {
+        "name": "八角",
+        "amount": "3颗"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "适量，可不放"
+      },
+      {
+        "name": "开水",
+        "amount": "没过食材"
+      }
+    ]
+  },
+  "地三鲜": {
+    "time_minutes": 40,
+    "servings": 3,
+    "ingredientNote": "用量约2～4人份；葱姜蒜及调味量从原文步骤补齐。",
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": "200g"
+      },
+      {
+        "name": "土豆",
+        "amount": "150g"
+      },
+      {
+        "name": "青椒",
+        "amount": "3～4个"
+      },
+      {
+        "name": "葱",
+        "amount": "5g"
+      },
+      {
+        "name": "姜",
+        "amount": "5g"
+      },
+      {
+        "name": "蒜",
+        "amount": "15g，分两次加入"
+      },
+      {
+        "name": "生抽",
+        "amount": "10ml"
+      },
+      {
+        "name": "白糖",
+        "amount": "10g"
+      },
+      {
+        "name": "淀粉",
+        "amount": "8g"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "15ml"
+      },
+      {
+        "name": "清水",
+        "amount": "80ml"
+      },
+      {
+        "name": "食用油",
+        "amount": "约150ml煎炸，另备少量底油"
+      }
+    ]
+  },
+  "西红柿鸡蛋挂面": {
+    "servings": 1,
+    "ingredientNote": "一人份。蔬菜可根据现有食材调整。",
+    "ingredients": [
+      {
+        "name": "挂面",
+        "amount": "50～100g"
+      },
+      {
+        "name": "西红柿",
+        "amount": "1个，约200g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "1～2个"
+      },
+      {
+        "name": "青椒",
+        "amount": "少量，可不放"
+      },
+      {
+        "name": "小葱",
+        "amount": "适量"
+      },
+      {
+        "name": "蒜",
+        "amount": "少量"
+      },
+      {
+        "name": "盐",
+        "amount": "适量"
+      },
+      {
+        "name": "蚝油",
+        "amount": "5g，或用少量鸡精"
+      },
+      {
+        "name": "白糖",
+        "amount": "2g，按番茄酸度调整"
+      },
+      {
+        "name": "生抽",
+        "amount": "5～8g"
+      },
+      {
+        "name": "食用油",
+        "amount": "约20g"
+      },
+      {
+        "name": "香油",
+        "amount": "5g，可减量"
+      }
+    ]
+  },
+  "凉拌木耳": {
+    "time_minutes": 70,
+    "servings": 1,
+    "ingredientNote": "含泡发与冷却时间，使用新鲜泡发的木耳。"
+  },
+  "清蒸鲈鱼": {
+    "servings": 2,
+    "time_minutes": 30,
+    "ingredientNote": "蒸制时间应按鱼的大小调整，以完全熟透为准。",
+    "ingredients": [
+      {
+        "name": "鲈鱼",
+        "amount": "1条"
+      },
+      {
+        "name": "香葱",
+        "amount": "3根"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "食用油",
+        "amount": "10～15ml"
+      },
+      {
+        "name": "蒸鱼豉油",
+        "amount": "10～15ml"
+      },
+      {
+        "name": "盐",
+        "amount": "适量，腌制后冲净"
+      }
+    ]
+  },
+  "上汤娃娃菜": {
+    "servings": 3,
+    "ingredientNote": "约2～4人份；肉类与调味品按口味调整。",
+    "ingredients": [
+      {
+        "name": "娃娃菜",
+        "amount": "700g"
+      },
+      {
+        "name": "金针菇",
+        "amount": "少量，可不放"
+      },
+      {
+        "name": "皮蛋",
+        "amount": "1个，可不放"
+      },
+      {
+        "name": "午餐肉",
+        "amount": "适量，可用火腿肠替代"
+      },
+      {
+        "name": "葱",
+        "amount": "3g"
+      },
+      {
+        "name": "姜",
+        "amount": "10g"
+      },
+      {
+        "name": "蒜",
+        "amount": "10g"
+      },
+      {
+        "name": "清水",
+        "amount": "约300ml，以没过菜为准"
+      },
+      {
+        "name": "蚝油",
+        "amount": "适量"
+      },
+      {
+        "name": "白糖",
+        "amount": "少量"
+      },
+      {
+        "name": "盐",
+        "amount": "适量"
+      },
+      {
+        "name": "食用油",
+        "amount": "少量"
+      }
+    ]
+  },
+  "糖醋排骨": {
+    "servings": 2,
+    "ingredientNote": "煎炸用油并非全部食用量；需备可控温的锅具。"
+  },
+  "日式咖喱饭": {
+    "time_minutes": 60,
+    "servings": 6,
+    "ingredientNote": "原文为约六碗咖喱的用量，少量制作可按比例减量。",
+    "ingredients": [
+      {
+        "name": "咖喱块",
+        "amount": "115g，按包装说明调整"
+      },
+      {
+        "name": "洋葱",
+        "amount": "2个"
+      },
+      {
+        "name": "土豆",
+        "amount": "2个"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "蒜",
+        "amount": "2～3瓣"
+      },
+      {
+        "name": "肉",
+        "amount": "约1000g，猪牛鸡肉均可"
+      },
+      {
+        "name": "食用油",
+        "amount": "少量"
+      },
+      {
+        "name": "清水",
+        "amount": "没过食材"
+      },
+      {
+        "name": "米饭",
+        "amount": "按人数准备"
+      }
+    ],
+    "tips": [
+      "放入咖喱块前先关火，融化后再小火加热并持续搅拌。",
+      "如水量明显减少，加热水补至没过食材。"
+    ]
+  },
+  "烤蛋挞": {
+    "time_minutes": 50,
+    "ingredientNote": "原文整批约30只；可按比例减量。",
+    "ingredients": [
+      {
+        "name": "蛋挞皮",
+        "amount": "约30只"
+      },
+      {
+        "name": "蛋黄",
+        "amount": "8个，蛋清留作他用"
+      },
+      {
+        "name": "牛奶",
+        "amount": "200ml"
+      },
+      {
+        "name": "淡奶油",
+        "amount": "450ml"
+      },
+      {
+        "name": "白砂糖",
+        "amount": "80g，可按口味调整"
+      }
+    ],
+    "tips": [
+      "需要烤箱、厨房秤、搅拌工具和筛网。",
+      "半成品可冷冻保存，也可直接烤制；时间按烤箱和蛋挞状态调整。",
+      "取烤盘时使用隔热手套。"
+    ]
+  }
+}

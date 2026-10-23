@@ -1,0 +1,38 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "cooking-today",
+  "appid": "wx29eb90751de67ea5",
+  "compileType": "miniprogram",
+  "description": "开火日记",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "postcss": true,
+    "urlCheck": false,
+    "enhance": true,
+    "compileWorklet": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "minifyWXML": true,
+    "localPlugins": false,
+    "disableUseStrict": false,
+    "useCompilerPlugins": false,
+    "condition": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "libVersion": "latest",
+  "simulatorPluginLibVersion": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {},
+  "cloudfunctionRoot": "../cloudfunctions/"
+}

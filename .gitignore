@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.factory-cache/
+.env
+*.local
+
+.swc/
+project.private.config.json

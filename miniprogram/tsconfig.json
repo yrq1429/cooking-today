@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "lib": ["ES2018", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "outDir": "dist",
+    "paths": { "@/*": ["./src/*"] },
+    "resolveJsonModule": true,
+    "rootDir": ".",
+    "skipLibCheck": true,
+    "strict": false,
+    "target": "ES2017"
+  },
+  "include": ["./src", "./types", "./config"],
+  "exclude": ["node_modules", "dist"]
+}

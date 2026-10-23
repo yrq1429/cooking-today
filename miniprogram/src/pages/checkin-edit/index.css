@@ -1,0 +1,17 @@
+.edit { padding-top: 40px; padding-bottom: 220px; }
+.edit .page-title { font-size: 46px; }
+.edit__note { width: 100%; min-height: 220px; font-size: 31px; line-height: 1.9; padding: 42px 0 24px; background: transparent; color: #30372e; }
+.edit__photos { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 14px; margin-top: 16px; }
+.edit__tile, .edit__add { position: relative; height: 216px; border-radius: 12px; }
+.edit__tile { overflow: hidden; }
+.edit__photo { width: 100%; height: 100%; display: block; }
+.edit__remove { position: absolute; top: 4px; right: 4px; width: 52px; height: 52px; border-radius: 50%; background: #272c2480; color: #fff; text-align: center; line-height: 48px; font-size: 36px; }
+.edit__add { background: #eeeee7; color: #939b89; display: flex; flex-direction: column; gap: 24px; align-items: center; justify-content: center; font-size: 22px; border: 1px dashed #cdd2c4; }
+.edit__count { display: block; color: #a2a698; font-size: 21px; margin: 20px 0 40px; }
+.edit__fields { display: flex; align-items: center; padding: 30px 0; border-top: 1px solid #e7e9e0; gap: 36px; }
+.edit__label { font-size: 26px; width: 110px; flex-shrink: 0; }
+.edit__title { font-size: 26px; flex: 1; min-width: 0; }
+.edit__date { font-size: 25px; color: #919789; }
+.edit__privacy { display: flex; gap: 12px; align-items: center; font-size: 21px; color: #a2a698; margin-top: 30px; }
+.edit__privacy-dot { width: 10px; height: 10px; border-radius: 50%; background: #95a68b; flex-shrink: 0; }
+.edit__footer { position: fixed; bottom: 0; left: 0; right: 0; padding: 24px 36px calc(24px + env(safe-area-inset-bottom)); background: #faf9f6f5; border-top: 1px solid #e7e9e0; }

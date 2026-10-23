@@ -1,0 +1,618 @@
+{
+  "date": "2026-10-23",
+  "provider": "ip13",
+  "queries": [
+    {
+      "keyword": "番茄炒蛋",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 2.63,
+      "recipes": [
+        {
+          "id": 1425253,
+          "title": "飘扬在里约上空的番茄炒蛋#专利好油为冠军加油#",
+          "ingredients": 11,
+          "steps": 15,
+          "stepImages": 15,
+          "hasCover": true
+        },
+        {
+          "id": 1423455,
+          "title": "番茄炒蛋",
+          "ingredients": 6,
+          "steps": 7,
+          "stepImages": 7,
+          "hasCover": true
+        },
+        {
+          "id": 1421985,
+          "title": "番茄炒蛋",
+          "ingredients": 5,
+          "steps": 6,
+          "stepImages": 6,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "西红柿炒鸡蛋",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 2.65,
+      "recipes": [
+        {
+          "id": 1422415,
+          "title": "西红柿炒鸡蛋单人份",
+          "ingredients": 5,
+          "steps": 4,
+          "stepImages": 2,
+          "hasCover": true
+        },
+        {
+          "id": 1421938,
+          "title": "西红柿炒鸡蛋",
+          "ingredients": 4,
+          "steps": 6,
+          "stepImages": 1,
+          "hasCover": true
+        },
+        {
+          "id": 1418073,
+          "title": "西红柿炒鸡蛋#我要上首页清爽家常菜#",
+          "ingredients": 6,
+          "steps": 10,
+          "stepImages": 10,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "红烧肉",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 1.44,
+      "recipes": [
+        {
+          "id": 1426951,
+          "title": "红烧肉",
+          "ingredients": 5,
+          "steps": 6,
+          "stepImages": 6,
+          "hasCover": true
+        },
+        {
+          "id": 1426741,
+          "title": "红烧肉",
+          "ingredients": 11,
+          "steps": 5,
+          "stepImages": 5,
+          "hasCover": true
+        },
+        {
+          "id": 1426729,
+          "title": "土豆红烧肉",
+          "ingredients": 9,
+          "steps": 7,
+          "stepImages": 7,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "宫保鸡丁",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 1.53,
+      "recipes": [
+        {
+          "id": 1426372,
+          "title": "宫保鸡丁风味炒意面",
+          "ingredients": 5,
+          "steps": 3,
+          "stepImages": 3,
+          "hasCover": true
+        },
+        {
+          "id": 1424469,
+          "title": "宫保鸡丁（宝宝有份）",
+          "ingredients": 17,
+          "steps": 11,
+          "stepImages": 11,
+          "hasCover": true
+        },
+        {
+          "id": 1418790,
+          "title": "宫保鸡丁",
+          "ingredients": 5,
+          "steps": 12,
+          "stepImages": 12,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "可乐鸡翅",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 2.33,
+      "recipes": [
+        {
+          "id": 1426735,
+          "title": "可乐鸡翅",
+          "ingredients": 6,
+          "steps": 6,
+          "stepImages": 6,
+          "hasCover": true
+        },
+        {
+          "id": 1426472,
+          "title": "可乐鸡翅（最简单）",
+          "ingredients": 5,
+          "steps": 6,
+          "stepImages": 6,
+          "hasCover": true
+        },
+        {
+          "id": 1425556,
+          "title": "可乐鸡翅",
+          "ingredients": 9,
+          "steps": 8,
+          "stepImages": 8,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "麻婆豆腐",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 1.47,
+      "recipes": [
+        {
+          "id": 1423840,
+          "title": "麻婆豆腐",
+          "ingredients": 1,
+          "steps": 6,
+          "stepImages": 6,
+          "hasCover": true
+        },
+        {
+          "id": 1423160,
+          "title": "粑粑最爱麻婆豆腐",
+          "ingredients": 11,
+          "steps": 7,
+          "stepImages": 7,
+          "hasCover": true
+        },
+        {
+          "id": 1422409,
+          "title": "肉末麻婆豆腐",
+          "ingredients": 7,
+          "steps": 11,
+          "stepImages": 11,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "酸辣土豆丝",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 2.58,
+      "recipes": [
+        {
+          "id": 1424450,
+          "title": "酸辣土豆丝",
+          "ingredients": 5,
+          "steps": 2,
+          "stepImages": 2,
+          "hasCover": true
+        },
+        {
+          "id": 1423923,
+          "title": "酸辣土豆丝#我要上首页酸辣家常菜#",
+          "ingredients": 7,
+          "steps": 5,
+          "stepImages": 5,
+          "hasCover": true
+        },
+        {
+          "id": 1422278,
+          "title": "酸辣土豆丝",
+          "ingredients": 8,
+          "steps": 5,
+          "stepImages": 5,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "糖醋排骨",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 1.53,
+      "recipes": [
+        {
+          "id": 1426852,
+          "title": "糖醋排骨(柠檬味)",
+          "ingredients": 4,
+          "steps": 4,
+          "stepImages": 2,
+          "hasCover": true
+        },
+        {
+          "id": 1426750,
+          "title": "泰美味：泰式糖醋排骨",
+          "ingredients": 11,
+          "steps": 17,
+          "stepImages": 17,
+          "hasCover": true
+        },
+        {
+          "id": 1426261,
+          "title": "糖醋排骨",
+          "ingredients": 8,
+          "steps": 4,
+          "stepImages": 4,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "蛋炒饭",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 2.61,
+      "recipes": [
+        {
+          "id": 1425101,
+          "title": "五彩蛋炒饭",
+          "ingredients": 12,
+          "steps": 5,
+          "stepImages": 5,
+          "hasCover": true
+        },
+        {
+          "id": 1424963,
+          "title": "培根芦笋蛋炒饭＃专利好油为冠军加油＃",
+          "ingredients": 6,
+          "steps": 10,
+          "stepImages": 10,
+          "hasCover": true
+        },
+        {
+          "id": 1423826,
+          "title": "蛋炒饭",
+          "ingredients": 6,
+          "steps": 12,
+          "stepImages": 12,
+          "hasCover": true
+        }
+      ]
+    },
+    {
+      "keyword": "清蒸鲈鱼",
+      "http": 200,
+      "code": 200,
+      "count": 3,
+      "seconds": 2.53,
+      "recipes": [
+        {
+          "id": 1426656,
+          "title": "清蒸鲈鱼#方太蒸爱行动#",
+          "ingredients": 11,
+          "steps": 12,
+          "stepImages": 12,
+          "hasCover": true
+        },
+        {
+          "id": 1426255,
+          "title": "原味顺德-清蒸鲈鱼生",
+          "ingredients": 3,
+          "steps": 4,
+          "stepImages": 4,
+          "hasCover": true
+        },
+        {
+          "id": 1425648,
+          "title": "清蒸鲈鱼#专利好油为冠军加油#",
+          "ingredients": 4,
+          "steps": 3,
+          "stepImages": 3,
+          "hasCover": true
+        }
+      ]
+    }
+  ],
+  "imageChecks": [
+    {
+      "keyword": "番茄炒蛋",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 13874,
+      "hash": "e352a31e4750"
+    },
+    {
+      "keyword": "番茄炒蛋",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 15675,
+      "hash": "e461a347ace3"
+    },
+    {
+      "keyword": "番茄炒蛋",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 13874,
+      "hash": "e352a31e4750"
+    },
+    {
+      "keyword": "西红柿炒鸡蛋",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 9870,
+      "hash": "168d227df17c"
+    },
+    {
+      "keyword": "西红柿炒鸡蛋",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 9266,
+      "hash": "f675060fa34b"
+    },
+    {
+      "keyword": "红烧肉",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 15860,
+      "hash": "c460a4d8131a"
+    },
+    {
+      "keyword": "红烧肉",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 12537,
+      "hash": "2cef3c84bf66"
+    },
+    {
+      "keyword": "红烧肉",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 15860,
+      "hash": "c460a4d8131a"
+    },
+    {
+      "keyword": "宫保鸡丁",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 12660,
+      "hash": "796a513004f8"
+    },
+    {
+      "keyword": "宫保鸡丁",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 13099,
+      "hash": "ac6cf5019242"
+    },
+    {
+      "keyword": "宫保鸡丁",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 12660,
+      "hash": "796a513004f8"
+    },
+    {
+      "keyword": "可乐鸡翅",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 15455,
+      "hash": "bef336ffb061"
+    },
+    {
+      "keyword": "可乐鸡翅",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 13401,
+      "hash": "3e37163bd53f"
+    },
+    {
+      "keyword": "可乐鸡翅",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 15455,
+      "hash": "bef336ffb061"
+    },
+    {
+      "keyword": "麻婆豆腐",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 19468,
+      "hash": "c4ec9a2aaf84"
+    },
+    {
+      "keyword": "麻婆豆腐",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 10039,
+      "hash": "a0624af2b343"
+    },
+    {
+      "keyword": "麻婆豆腐",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 19468,
+      "hash": "c4ec9a2aaf84"
+    },
+    {
+      "keyword": "酸辣土豆丝",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 11967,
+      "hash": "07f6f6d5d52c"
+    },
+    {
+      "keyword": "酸辣土豆丝",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 14270,
+      "hash": "0e7825597dfb"
+    },
+    {
+      "keyword": "酸辣土豆丝",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 11967,
+      "hash": "07f6f6d5d52c"
+    },
+    {
+      "keyword": "糖醋排骨",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 14107,
+      "hash": "e6020fa23cf9"
+    },
+    {
+      "keyword": "糖醋排骨",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 14107,
+      "hash": "e6020fa23cf9"
+    },
+    {
+      "keyword": "蛋炒饭",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 16423,
+      "hash": "67b920156b83"
+    },
+    {
+      "keyword": "蛋炒饭",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 14764,
+      "hash": "ac5ac82ad3d7"
+    },
+    {
+      "keyword": "蛋炒饭",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 16423,
+      "hash": "67b920156b83"
+    },
+    {
+      "keyword": "清蒸鲈鱼",
+      "kind": "cover",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 18290,
+      "hash": "039d26cd6710"
+    },
+    {
+      "keyword": "清蒸鲈鱼",
+      "kind": "firstStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 12007,
+      "hash": "78ced575c45b"
+    },
+    {
+      "keyword": "清蒸鲈鱼",
+      "kind": "lastStep",
+      "http": 200,
+      "https": true,
+      "width": 200,
+      "height": 200,
+      "bytes": 18290,
+      "hash": "039d26cd6710"
+    }
+  ]
+}
